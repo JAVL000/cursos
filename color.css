@@ -1,0 +1,18 @@
+.arriba{
+	position:absolute;
+	top:5px;
+	right:5px;
+}
+.arrib{
+	position:absolute;
+	top:5px;
+}
+.abajo{
+	position:absolute;
+	bottom:5px;
+	right:5px;
+}
+.abaj{
+	position:absolute;
+	bottom:5px;
+}
